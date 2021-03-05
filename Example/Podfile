@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'GameTools_Example' do
+  pod 'GameTools', :path => '../'
+
+  target 'GameTools_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
