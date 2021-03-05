@@ -1,0 +1,22 @@
+{
+  "name": "GameTools",
+  "version": "0.1.0",
+  "summary": "A short description of GameTools.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/TerroKot/GameTools",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "TerroKot": "egor.tereshonok@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/TerroKot/GameTools.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "GameTools/Classes/**/*"
+}

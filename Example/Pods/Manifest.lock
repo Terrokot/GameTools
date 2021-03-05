@@ -1,0 +1,16 @@
+PODS:
+  - GameTools (0.1.0)
+
+DEPENDENCIES:
+  - GameTools (from `../`)
+
+EXTERNAL SOURCES:
+  GameTools:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GameTools: a5b94f2bd80654e13f800b1964ef7e7877f8d100
+
+PODFILE CHECKSUM: 4c875c5f4ff332dedde0f884f111f3026dd033c8
+
+COCOAPODS: 1.10.1

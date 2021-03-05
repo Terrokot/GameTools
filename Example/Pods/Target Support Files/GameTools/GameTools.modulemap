@@ -1,0 +1,6 @@
+framework module GameTools {
+  umbrella header "GameTools-umbrella.h"
+
+  export *
+  module * { export * }
+}
