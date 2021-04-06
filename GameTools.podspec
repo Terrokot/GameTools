@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'GameTools'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'Game development tools'
   s.homepage         = 'https://github.com/TerroKot/GameTools'
   s.author           = { 'Egor Tereshonok' => 'egor.tereshonok@gmail.com' }

@@ -18,6 +18,7 @@
 		91389ED825F22BC40059A80B /* GameField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91389ED425F22BC40059A80B /* GameField.swift */; };
 		91389ED925F22BC40059A80B /* CGPoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91389ED525F22BC40059A80B /* CGPoint.swift */; };
 		91389EDA25F22BC40059A80B /* Direction.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91389ED625F22BC40059A80B /* Direction.swift */; };
+		913AC176261D026C00ABE510 /* LSDefault.swift in Sources */ = {isa = PBXBuildFile; fileRef = 913AC175261D026C00ABE510 /* LSDefault.swift */; };
 		E07E8FB48EC60B3FE5295F0A803F9C77 /* Pods-GameTools_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 74B1920F44AF02B60A1FB9B8381408C0 /* Pods-GameTools_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F1546AE3E3A63E8D5140796E8BD8E68B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 /* End PBXBuildFile section */
@@ -58,6 +59,7 @@
 		91389ED425F22BC40059A80B /* GameField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameField.swift; sourceTree = "<group>"; };
 		91389ED525F22BC40059A80B /* CGPoint.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CGPoint.swift; sourceTree = "<group>"; };
 		91389ED625F22BC40059A80B /* Direction.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Direction.swift; sourceTree = "<group>"; };
+		913AC175261D026C00ABE510 /* LSDefault.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LSDefault.swift; sourceTree = "<group>"; };
 		99AF94060507C32C181855CE17A90C36 /* Pods-GameTools_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-GameTools_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		9A8C6F52A801D4C4DCE125EDAE0D7C7E /* GameTools-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "GameTools-dummy.m"; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
@@ -159,6 +161,7 @@
 				91389ED425F22BC40059A80B /* GameField.swift */,
 				91389ED525F22BC40059A80B /* CGPoint.swift */,
 				91389ED625F22BC40059A80B /* Direction.swift */,
+				913AC175261D026C00ABE510 /* LSDefault.swift */,
 			);
 			path = Source;
 			sourceTree = "<group>";
@@ -384,6 +387,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				913AC176261D026C00ABE510 /* LSDefault.swift in Sources */,
 				91389ED825F22BC40059A80B /* GameField.swift in Sources */,
 				1DEFFCB56936FE3A3FB35D9E54E0B378 /* GameTools-dummy.m in Sources */,
 				91389ED925F22BC40059A80B /* CGPoint.swift in Sources */,
